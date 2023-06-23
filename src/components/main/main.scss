@@ -1,0 +1,17 @@
+.main {
+  display: flex;
+  height: 100%;
+  width: 100vw;
+  .main-page {
+    width: 100%;
+    background-position: 770px 20px;
+    background-size: 470px;
+    background-image: url("../../assets/bike.jpeg");
+    background-repeat: no-repeat;
+    display: flex;
+    .content {
+      width: 550px;
+      padding: 160px 31px 0 110px;
+    }
+  }
+}

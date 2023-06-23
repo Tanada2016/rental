@@ -1,0 +1,18 @@
+.logo {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  .image {
+    margin: 0 10px;
+  }
+  .name {
+    text-decoration: none;
+    color: azure;
+    white-space: nowrap;
+    font-family: "Moirai One", cursive;
+    font-weight: 900;
+  }
+  .image-turn {
+    transform: scale(-1, 1);
+  }
+}

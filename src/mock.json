@@ -1,0 +1,90 @@
+{
+  "cases": [
+    {
+      "id": "111",
+      "status": "new",
+      "licenseNumber": "364782",
+      "ownerFullName": "Петров Петр Михайлович",
+      "clientId": "1",
+      "type": "спортивный",
+      "color": "Синий",
+      "date": "2023-01-11",
+      "description": "Украли из подъезда",
+      "createdAt": "2023-01-11",
+      "updatedAt": "2023-01-11",
+      "officer": "",
+      "resolution": ""
+    },
+    {
+      "id": "222",
+      "status": "new",
+      "licenseNumber": "273840",
+      "ownerFullName": "Иванов Иван Иванович",
+      "clientId": "2",
+      "type": "спортивный",
+      "color": "желтый",
+      "date": "2023-16-02",
+      "description": "украли когда оставил его у магазина",
+      "createdAt": "2023-16-02",
+      "updatedAt": "2023-16-02",
+      "officer": "",
+      "resolution": ""
+    },
+    {
+      "id": "333",
+      "status": "new",
+      "licenseNumber": "162309",
+      "ownerFullName": "Никифоров Алексей Денисович",
+      "clientId": "3",
+      "type": "дорожный",
+      "color": "белый",
+      "date": "2023-01-15",
+      "description": "",
+      "createdAt": "2023-01-15",
+      "updatedAt": "2023-01-15",
+      "officer": "",
+      "resolution": ""
+    }
+  ],
+  "casesTh": [
+    "Статус",
+    "Номер лицензии",
+    "ФИО пользователя",
+    "Тип велосипеда",
+    "Цвет велосипеда",
+    "Дата кражи",
+    "Дополнительная информация",
+    "Завершающий комментарий",
+    "Действие"
+  ],
+  "officers": [
+    {
+      "id": "444",
+      "email": "andry@mail.ru",
+      "firstName": "Андрей",
+      "lastName": "Ильинский",
+      "password": "Hnvw12!",
+      "clientId": "3211",
+      "approved": "true"
+    },
+    {
+      "id": "555",
+      "email": "Dmitry@mail.ru",
+      "firstName": "Дмитрий",
+      "lastName": "Беловец",
+      "password": "Hgf127!",
+      "clientId": "43213",
+      "approved": "true"
+    },
+    {
+      "id": "666",
+      "email": "zahar@mail.ru",
+      "firstName": "Захар",
+      "lastName": "Чичик",
+      "password": "Nfkgi1!",
+      "clientId": "31233",
+      "approved": "false"
+    }
+  ],
+  "officersTh": ["Электронная почта", "Имя", "Фамилия", "Статус", "Действие"]
+}

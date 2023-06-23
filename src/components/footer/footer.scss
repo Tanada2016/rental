@@ -1,0 +1,19 @@
+.footer {
+  justify-content: space-between;
+  .contacts {
+    margin: 0 20px 0 0;
+    color: azure;
+    display: flex;
+    align-items: center;
+  }
+}
+
+.footer .link {
+  text-decoration: none;
+  color: azure;
+  margin: 0 0 0 20px;
+}
+
+.footer .link:hover {
+  color: grey;
+}
